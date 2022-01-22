@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning React library
+🌱 I’m currently learning a React library
 
 ### My stack:
 <p>
