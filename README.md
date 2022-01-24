@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning a React library
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMainOne&show_icons=true&theme=gruvbox)
+
 ### My stack:
 <p>
   <a href="https://www.w3.org/html/" target="_blank">
