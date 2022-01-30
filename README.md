@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning a React library
+🌱 I’m currently learning React library in GOIT Academy
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMainOne&show_icons=true&theme=gruvbox)
 
