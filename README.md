@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning Node.js in GoIT Academy
+🌱 I’m currently searching for a job opportunities in the interesting companies
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMainOne&show_icons=true&theme=gruvbox)
 
