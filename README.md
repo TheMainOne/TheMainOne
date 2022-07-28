@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently searching for a job opportunities in the interesting companies
+🌱 I’m currently searching for a job opportunities in the interesting companies. Open to all offers
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMainOne&show_icons=true&theme=gruvbox)
 
