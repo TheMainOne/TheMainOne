@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-🌱
-
 
 ### My stack:
 <p>
